@@ -1,0 +1,9 @@
+a) URL: A URL é o endereço de algo na internet, é por meio dela que o navegador sabe exatamente onde encontrar um site ou qualquer outro conteúdo online. Ela é o que permite que a gente localize e acesse qualquer recurso na internet de forma direta e organizada.
+
+b) HTTP: é o protocolo que permite a comunicação entre o navegador e os servidores na internet. É o conjunto de regras que define como as informações são enviadas e recebidas quando acessamos um site. Quando o endereço é digitado no navegador, ele envia a solicitação para o servidor e traz de novo a resposta, pode ser uma página, imagem e etc.
+
+c) TCP: é o Protocolo de controle de Transmissão, é responsável por garantir que os dados enviados pela internet cheguem de forma correta ao destino. Ele organiza as informações em pequenos pacotes, verifica se todos chegaram e, se algum se perder no caminho, faz o reenvio
+
+d) IP: é o protocolo de internet, ele identifica e localiza os dispositivos dentro de uma rede. Cada aparelho conectado à internet como (celular ou computador) possuí um endereço IP, funciona como se fosse um número de identificador.
+
+e) DNS: é o Sistema de Nomes de Domínio, ele é como uma espécie de “tradutor” da internet. Em vez de a gente precisar decorar vários números (os endereços IP), ele permite usar nomes mais fáceis, como os dos sites que acessamos no dia a dia. Quando digitamos o nome de um site no navegador, o DNS faz a conversão desse nome para o endereço IP correspondente, para que o computador consiga encontrar o servidor correto.
